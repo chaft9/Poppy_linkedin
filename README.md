@@ -2,8 +2,8 @@
 
 Hello les amies !
 
-Ce programme à pour but de nous aider à trouver une fuck**g alternance, Wavestone à recencer environs 150 entreprise dédiée à la cybersécurité en france.
-Le but du programme est évolutif en tout point, la première idée qui mes venu c'est que Poppy puisse rechercher les personnes clef dans Linkedin de chacune de c'est 150 entreprises.
+Ce programme à pour but de nous aider à trouver une alternance, Wavestone à recencer environs 150 entreprises dédiée à la cybersécurité en france.
+Le but du programme est évolutif en tout point, la première idée qui mes venu est que Poppy puisse rechercher les personnes clef dans Linkedin de chacune de c'est 150 entreprises.
 Exemple :
 
 Network Security :
